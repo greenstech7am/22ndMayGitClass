@@ -109,5 +109,10 @@ public class BaseClass {
 		
 
 	}
+	
+	private void closeFF() {
+		System.out.println("Checking");
+
+	}
 
 }
